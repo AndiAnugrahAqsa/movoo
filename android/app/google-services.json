@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95006859040",
+    "project_id": "movoo-66c7d",
+    "storage_bucket": "movoo-66c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95006859040:android:2acd64348e0f2c73650145",
+        "android_client_info": {
+          "package_name": "com.movoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95006859040-1sohcmsnirt2rms35mgktt0q95e5vs7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVkb0AodViF6SiSPpK0jh5SIRUNn2TtdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95006859040-1sohcmsnirt2rms35mgktt0q95e5vs7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
